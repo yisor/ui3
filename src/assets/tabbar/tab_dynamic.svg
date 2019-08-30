@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>机票-航班动态</title>
+    <desc>Created with Sketch.</desc>
+    <g id="机票" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="机票查询" transform="translate(-351.000000, -1249.000000)">
+            <g id="栏/标签/机票" transform="translate(0.000000, 1236.000000)">
+                <g id="航班动态" transform="translate(250.000000, 1.000000)">
+                    <g id="icon/标签/机票/航班动态备份" transform="translate(101.000000, 12.000000)">
+                        <g id="编组">
+                            <rect id="矩形" x="0" y="0" width="48" height="48"></rect>
+                            <circle id="椭圆形" stroke="#00000A" stroke-width="3" cx="10" cy="12" r="4"></circle>
+                            <circle id="椭圆形" stroke="#00000A" stroke-width="3" cx="10" cy="36" r="4"></circle>
+                            <rect id="矩形" fill="#00000A" x="8.5" y="16" width="3" height="17"></rect>
+                            <rect id="矩形" fill="#00000A" x="20" y="9" width="18" height="3" rx="1.5"></rect>
+                            <rect id="矩形" fill="#00000A" x="20" y="22" width="24" height="3" rx="1.5"></rect>
+                            <rect id="矩形" fill="#00000A" x="20" y="34" width="18" height="3" rx="1.5"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

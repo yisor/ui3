@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.appTab {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 3;
+}

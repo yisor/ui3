@@ -1,0 +1,17 @@
+
+.normal {
+  font-family: Georgia, sans-serif;
+  margin-top: 3em;
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+.list {
+  font-size: 1.2em;
+  margin-top: 1.8em;
+}
+
